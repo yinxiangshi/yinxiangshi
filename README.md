@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @yinxiangshi
+- 👀 I’m interested in machine learning 
+- 🌱 I’m currently learning machine learning
+- 📫 How to reach me jhj779290@gmail.com
