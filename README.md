@@ -1,3 +1,3 @@
-Fileds: machine learning system
+`I'm just doing the things that I like.`
 
-How to reach me: jhj779290@gmail.com
+contact: jhj779290@gmail.com
