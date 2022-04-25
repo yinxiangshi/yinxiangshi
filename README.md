@@ -1,3 +1,4 @@
 `I'm just doing the things that I like.`
+`Stay humble, keep it simple.`
 
-contact: jhj779290@gmail.com
+Contact: jhj779290@gmail.com
