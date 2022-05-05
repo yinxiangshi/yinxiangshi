@@ -7,3 +7,5 @@ Pronouns: they/them.
 If you have questions about my repo, feel free to contact me.
 
 Contact: jhj779290@gmail.com
+
+![avatar](http://www.catb.org/hacker-emblem/glider.png)
