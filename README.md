@@ -6,6 +6,6 @@ Pronouns: they/them.
 
 If you have questions about my repo, feel free to contact me.
 
-Contact: allonsygamma@proton.me/hjjia@iastate.edu
+Contact: allonsygamma@proton.me / hjjia@iastate.edu
 
 ![avatar](http://www.catb.org/hacker-emblem/glider.png)
