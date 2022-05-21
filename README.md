@@ -4,9 +4,11 @@
 
 Pronouns: they/them.
 
-If you have questions about my repo, feel free to contact me.
+I'm also working on becoming a techno artist.
 
 My [leetcode page](https://leetcode.com/allonsygamma/)(with lots of solutions that I write)
+
+If you have questions about my repo, feel free to contact me.
 
 Contact: allonsygamma@proton.me / hjjia@iastate.edu
 
