@@ -4,7 +4,7 @@
 
 Pronouns: they/them.
 
-I'm also working on becoming a techno artist, my [sound cloud](https://soundcloud.com/allonsygamma)
+I'm also working on becoming a techno artist, my [sound cloud](https://soundcloud.com/allonsygamma).
 
 My [leetcode page](https://leetcode.com/allonsygamma/)(with lots of solutions that I write)
 
