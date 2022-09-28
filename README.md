@@ -1,3 +1,5 @@
+**My life goal is foresight, talent and strength.**
+
 `I'm just doing the things that I like.`
 
 `Stay humble, keep it simple.`
